@@ -1,0 +1,6 @@
+{
+  "name": "Monuments of Exploration",
+  "description": "Interactive Space Rovers & Off-World Hardware Explorer showcasing dormant, historic, and active human-made equipment across the Moon, Mars, and Deep Space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
